@@ -411,15 +411,14 @@ a {
 }
 .feedback__quotes {
   position: absolute;
-  left: 0px;
-  top: 0px;
-
+  left: 669px;
+  top: 183px;
   font-family: Montserrat;
   font-style: italic;
   font-size: 300px;
   line-height: 160%; /* or 480px */
-
   color: rgba(255, 38, 37, 0.08);
+  z-index: 1;
 }
 .section5__dots_big {
   position: absolute;
